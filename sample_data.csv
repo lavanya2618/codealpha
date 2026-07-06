@@ -1,0 +1,9 @@
+pass_id,user_name,user_email,source,destination,bus_type,distance_km,travel_date,fare,booking_date,expiry_date,status
+BP-A1B2C3D4,Rohan Deshmukh,rohan.deshmukh@example.com,Mumbai,Pune,AC,150,2026-07-10,375.00,2026-07-01 09:15:22,2026-08-09,Active
+BP-E5F6G7H8,Sneha Kulkarni,sneha.kulkarni@example.com,Pune,Nashik,Express,210,2026-07-12,315.00,2026-07-02 11:40:05,2026-08-11,Active
+BP-I9J0K1L2,Aditya Joshi,aditya.joshi@example.com,Mumbai,Thane,Ordinary,25,2026-07-05,25.00,2026-06-30 08:05:11,2026-08-04,Active
+BP-M3N4O5P6,Priyanka Rane,priyanka.rane@example.com,Nagpur,Aurangabad,AC,500,2026-07-15,1250.00,2026-07-03 14:22:47,2026-08-14,Active
+BP-Q7R8S9T0,Vivek Patil,vivek.patil@example.com,Kolhapur,Solapur,Express,225,2026-06-20,337.50,2026-06-15 10:12:30,2026-07-20,Cancelled
+BP-U1V2W3X4,Ananya Desai,ananya.desai@example.com,Pune,Aurangabad,Ordinary,235,2026-07-08,235.00,2026-07-01 16:50:00,2026-08-07,Active
+BP-Y5Z6A7B8,Karan Shah,karan.shah@example.com,Mumbai,Kolhapur,AC,395,2026-07-20,987.50,2026-07-04 13:05:18,2026-08-19,Active
+BP-C9D0E1F2,Meera Nair,meera.nair@example.com,Nashik,Thane,Express,165,2026-06-25,247.50,2026-06-20 09:30:44,2026-07-25,Cancelled
